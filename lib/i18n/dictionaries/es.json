@@ -1,0 +1,136 @@
+{
+  "common": {
+    "appName": "Nestlé QR Experience",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "homepage": {
+    "title": "Bienvenido a la Experiencia Nestlé QR",
+    "subtitle": "Utiliza tus 150 monedas para escanear productos y agregarlos a tu carrito",
+    "welcome": "Bienvenido",
+    "registerPrompt": "Regístrate para comenzar tu experiencia Nestlé",
+    "register": "REGÍSTRATE",
+    "loginPrompt": "¿Ya tienes una cuenta? Inicia sesión",
+    "getStarted": "Empezar",
+    "howToUse": "Cómo utilizar"
+  },
+  "auth": {
+    "register": "REGÍSTRATE",
+    "registerTitle": "Crea tu cuenta para participar en la experiencia Nestlé",
+    "login": "Iniciar sesión",
+    "signIn": "Iniciar Sesión",
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "profilePhoto": "FOTO DE PERFIL",
+    "uploadPhoto": "Toca para subir una foto",
+    "continue": "Continuar",
+    "processing": "Procesando...",
+    "requiredFields": "Por favor completa todos los campos obligatorios."
+  },
+  "verification": {
+    "title": "Verificación de correo",
+    "description": "Hemos enviado un código de verificación a tu correo electrónico. Por favor, ingrésalo a continuación para verificar tu cuenta.",
+    "code": "Código de verificación",
+    "codePlaceholder": "Ingresa el código",
+    "verify": "Verificar",
+    "verifying": "Verificando..."
+  },
+  "dashboard": {
+    "greeting": "¡Hola, {name}!",
+    "welcome": "Bienvenido a tu experiencia Nestlé",
+    "coins": "coins",
+    "scanQR": "Escanear QR",
+    "scanDescription": "Agrega productos escaneando",
+    "viewCart": "Ver Carrito",
+    "cartDescription": "Revisa tus productos",
+    "featuredProducts": "Productos Destacados",
+    "scanToEarn": "Escanea estos productos para ganar coins",
+    "home": "Inicio",
+    "scan": "Escanear",
+    "cart": "Carrito",
+    "profile": "Perfil"
+  },
+  "scanner": {
+    "title": "ESCANEA EL CÓDIGO QR",
+    "instruction": "Apunta la cámara al código QR del producto",
+    "permissionDenied": "Permiso de cámara denegado",
+    "enableCamera": "Por favor habilita el acceso a la cámara para escanear",
+    "startScanner": "Iniciar Escáner",
+    "stopScanner": "Detener Escáner",
+    "scanAgain": "Escanear Otro",
+    "scanError": "Error al escanear",
+    "productNotFound": "Producto no encontrado. Intenta escanear de nuevo.",
+    "addToCart": "Añadir al Carrito",
+    "adding": "Añadiendo..."
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "checkout": "Finalizar Compra",
+    "remove": "Eliminar",
+    "total": "Total",
+    "coins": "monedas",
+    "backToScan": "Volver a Escanear",
+    "receipt": "Recibo",
+    "processing": "Procesando..."
+  },
+  "checkout": {
+    "title": "Finalizar compra",
+    "summary": "Resumen de la orden",
+    "items": "Artículos",
+    "totalCoins": "Total coins",
+    "confirm": "Confirmar pedido",
+    "processing": "Procesando..."
+  },
+  "success": {
+    "title": "¡Pedido Completado!",
+    "message": "Tu pedido ha sido confirmado",
+    "orderNumber": "Número de orden",
+    "earnedCoins": "Coins ganados",
+    "viewOrders": "Ver mis pedidos",
+    "continueShopping": "Continuar comprando"
+  },
+  "profile": {
+    "title": "Mi Perfil",
+    "personalInfo": "Información Personal",
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Correo electrónico",
+    "totalCoins": "Total de coins",
+    "update": "Actualizar perfil",
+    "orders": "Mis pedidos",
+    "logout": "Cerrar sesión"
+  },
+  "nav": {
+    "home": "Inicio",
+    "scanner": "Escanear",
+    "cart": "Carrito",
+    "profile": "Perfil"
+  },
+  "footer": {
+    "allRightsReserved": "Todos los derechos reservados"
+  },
+  "coins": {
+    "balance": "Balance de monedas",
+    "initial": "Recibes 150 monedas al registrarte",
+    "useCoins": "Usa tus monedas para agregar productos a tu carrito",
+    "receipt": "Obtendrás un recibo con tu selección"
+  },
+  "receipt": {
+    "title": "Recibo",
+    "orderComplete": "Tu pedido ha sido completado",
+    "orderNumber": "Número de Pedido",
+    "date": "Fecha",
+    "items": "Productos",
+    "coins": "monedas",
+    "total": "Total",
+    "print": "Imprimir Recibo",
+    "backToHome": "Volver al Inicio",
+    "shop": "Seguir Comprando",
+    "thankYou": "¡Gracias por tu compra!",
+    "yourInfo": "Tu Información"
+  }
+} 

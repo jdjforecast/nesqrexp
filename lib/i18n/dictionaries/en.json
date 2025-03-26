@@ -1,0 +1,157 @@
+{
+  "common": {
+    "appName": "Nestlé QR Experience",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "homepage": {
+    "title": "Welcome to Nestlé QR Experience",
+    "subtitle": "Scan QR codes to discover products and earn rewards",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "featured": "Featured Products",
+    "howToUse": "How to Use"
+  },
+  "auth": {
+    "register": "REGISTER",
+    "registerTitle": "Create your account to participate in the Nestlé experience",
+    "login": "Log in",
+    "signIn": "Sign In",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "password": "Password",
+    "profilePhoto": "PROFILE PHOTO",
+    "uploadPhoto": "Tap to upload a photo",
+    "continue": "Continue",
+    "processing": "Processing...",
+    "requiredFields": "Please complete all required fields.",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "welcome": "Welcome",
+    "or": "or",
+    "continueWith": "Continue with",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "verification": {
+    "title": "Email verification",
+    "description": "We have sent a verification code to your email. Please enter it below to verify your account.",
+    "code": "Verification code",
+    "codePlaceholder": "Enter the code",
+    "verify": "Verify",
+    "verifying": "Verifying..."
+  },
+  "dashboard": {
+    "greeting": "Hello, {name}!",
+    "welcome": "Welcome to your Nestlé experience",
+    "coins": "coins",
+    "scanQR": "Scan QR",
+    "scanDescription": "Add products by scanning",
+    "viewCart": "View Cart",
+    "cartDescription": "Review your products",
+    "featuredProducts": "Featured Products",
+    "scanToEarn": "Scan these products to earn coins",
+    "home": "Home",
+    "scan": "Scan",
+    "cart": "Cart",
+    "profile": "Profile"
+  },
+  "scanner": {
+    "title": "SCAN QR CODE",
+    "instructions": "Point the camera at the QR code on the product",
+    "permissionDenied": "Camera permission denied",
+    "enableCamera": "Please enable camera access to scan",
+    "startScanner": "Start Scanner",
+    "stopScanner": "Stop Scanner",
+    "scanAnother": "Scan Another",
+    "scanError": "Scan Error",
+    "productNotFound": "Product not found. Try scanning again.",
+    "addToCart": "Add to Cart",
+    "adding": "Adding...",
+    "howToScan": "How to scan a QR code",
+    "step1": "Press the 'Start Scanner' button to activate the camera",
+    "step2": "Center the QR code in the camera frame",
+    "step3": "Keep the camera steady until the code is recognized",
+    "unauthorized": "You must be signed in to add products to cart"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Checkout",
+    "total": "Total",
+    "remove": "Remove",
+    "summary": "Order Summary",
+    "coins": "coins",
+    "backToScan": "Back to Scan",
+    "receipt": "Receipt",
+    "processing": "Processing..."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "summary": "Order summary",
+    "items": "Items",
+    "totalCoins": "Total coins",
+    "confirm": "Confirm order",
+    "processing": "Processing..."
+  },
+  "success": {
+    "title": "Order Completed!",
+    "message": "Your order has been confirmed",
+    "orderNumber": "Order number",
+    "earnedCoins": "Coins earned",
+    "viewOrders": "View my orders",
+    "continueShopping": "Continue shopping"
+  },
+  "profile": {
+    "title": "Your Profile",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "coins": "Coins",
+    "updateProfile": "Update Profile",
+    "orders": "Order History"
+  },
+  "nav": {
+    "home": "Home",
+    "scanner": "Scan",
+    "cart": "Cart",
+    "profile": "Profile"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "orders": "Orders",
+    "profile": "Profile",
+    "scan": "Scan",
+    "language": "Language"
+  },
+  "products": {
+    "title": "Our Products",
+    "search": "Search products...",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "viewDetails": "View Details"
+  },
+  "receipt": {
+    "title": "Receipt",
+    "orderComplete": "Your order has been completed",
+    "orderNumber": "Order Number",
+    "date": "Date",
+    "items": "Products",
+    "coins": "coins",
+    "total": "Total",
+    "print": "Print Receipt",
+    "backToHome": "Back to Home",
+    "shop": "Continue Shopping",
+    "thankYou": "Thank you for your purchase!",
+    "yourInfo": "Your Information"
+  }
+} 

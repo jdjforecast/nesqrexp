@@ -1,0 +1,176 @@
+{
+  "common": {
+    "back": "Volver",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "yes": "Sí",
+    "no": "No",
+    "continue": "Continuar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "signIn": "Iniciar sesión",
+    "signOut": "Cerrar sesión",
+    "register": "Registrarse",
+    "coins": "monedas",
+    "backToReceipts": "Volver a mis compras"
+  },
+  "home": {
+    "title": "Experiencia Nestlé",
+    "welcome": "Bienvenido",
+    "scan": "Escanear",
+    "profile": "Perfil",
+    "signIn": "Iniciar sesión",
+    "register": "Registrarse",
+    "cart": "Carrito"
+  },
+  "login": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "signUp": "Regístrate"
+  },
+  "register": {
+    "title": "Crear cuenta",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "signIn": "Inicia sesión",
+    "errors": {
+      "emailRequired": "El correo electrónico es obligatorio",
+      "emailInvalid": "El correo electrónico no es válido",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordLength": "La contraseña debe tener al menos 8 caracteres"
+    },
+    "success": "Cuenta creada con éxito",
+    "error": "Error al crear la cuenta",
+    "termsAndPrivacy": "Al registrarte, aceptas nuestros Términos y Condiciones y Política de Privacidad"
+  },
+  "verify": {
+    "title": "Verificar correo electrónico",
+    "instructions": "Hemos enviado un código de verificación a tu correo electrónico. Por favor, introdúcelo a continuación.",
+    "code": "Código de verificación",
+    "submit": "Verificar",
+    "resend": "Reenviar código",
+    "success": "Correo electrónico verificado con éxito",
+    "error": "Error al verificar el correo electrónico",
+    "resendSuccess": "Código reenviado con éxito",
+    "resendError": "Error al reenviar el código",
+    "checkEmail": "Revisa tu correo electrónico",
+    "waitResend": "Puedes reenviar el código en",
+    "seconds": "segundos"
+  },
+  "profile": {
+    "title": "Perfil",
+    "personalInfo": "Información personal",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "updateProfile": "Actualizar perfil",
+    "changePassword": "Cambiar contraseña",
+    "logout": "Cerrar sesión",
+    "coins": "Monedas",
+    "updatedSuccess": "Perfil actualizado con éxito",
+    "updateError": "Error al actualizar el perfil"
+  },
+  "cart": {
+    "title": "Carrito",
+    "empty": "Tu carrito está vacío",
+    "checkout": "Finalizar compra",
+    "remove": "Eliminar",
+    "total": "Total",
+    "coins": "monedas",
+    "backToScan": "Escanear productos",
+    "processing": "Procesando...",
+    "availableCoins": "Monedas disponibles",
+    "addToCart": "Añadir al carrito",
+    "insufficientCoins": "No tienes suficientes monedas",
+    "checkoutSuccess": "Compra realizada con éxito",
+    "checkoutError": "Error al procesar la compra",
+    "removeSuccess": "Producto eliminado del carrito",
+    "removeError": "Error al eliminar el producto"
+  },
+  "receipt": {
+    "title": "Detalle de Compra",
+    "order": "Pedido",
+    "date": "Fecha",
+    "time": "Hora",
+    "customerInfo": "Información del Cliente",
+    "items": "Productos",
+    "item": "producto",
+    "total": "Total",
+    "print": "Imprimir",
+    "receiptTitle": "Recibo de Compra",
+    "completed": "Completado",
+    "notFound": "Recibo no encontrado",
+    "notFoundSub": "El recibo que buscas no existe o no tienes acceso a él",
+    "signInRequired": "Inicia sesión para ver los detalles de tu compra",
+    "printSuccess": "Éxito",
+    "printed": "Recibo impreso correctamente",
+    "error": "Error",
+    "loadError": "No se pudo cargar el recibo",
+    "thankYou": "¡Gracias por tu compra!",
+    "visitAgain": "Te esperamos pronto en Nestlé Experience"
+  },
+  "receipts": {
+    "title": "Mis Compras",
+    "empty": "No tienes compras recientes",
+    "emptySub": "Tus compras aparecerán aquí una vez que realices una",
+    "startShopping": "Empezar a comprar",
+    "order": "Pedido",
+    "item": "producto",
+    "items": "productos",
+    "signInRequired": "Inicia sesión para ver tu historial de compras",
+    "error": "Error",
+    "loadError": "No se pudieron cargar los recibos"
+  },
+  "scan": {
+    "title": "Escanear código QR",
+    "instructions": "Apunta tu cámara al código QR del producto",
+    "permissionDenied": "Permiso de cámara denegado",
+    "enableCamera": "Habilitar cámara",
+    "scanAgain": "Escanear de nuevo",
+    "productAdded": "Producto añadido al carrito",
+    "productError": "Error al añadir el producto",
+    "invalidQR": "Código QR inválido"
+  },
+  "admin": {
+    "title": "Administración",
+    "dashboard": "Panel",
+    "users": "Usuarios",
+    "products": "Productos",
+    "orders": "Pedidos",
+    "settings": "Configuración"
+  },
+  "error": {
+    "notFound": "Página no encontrada",
+    "notFoundMessage": "La página que estás buscando no existe",
+    "backHome": "Volver al inicio",
+    "serverError": "Error del servidor",
+    "serverErrorMessage": "Ha ocurrido un error en el servidor"
+  },
+  "email": {
+    "welcome": {
+      "subject": "Bienvenido a Experiencia Nestlé",
+      "title": "Bienvenido a Experiencia Nestlé",
+      "text": "Gracias por registrarte en Experiencia Nestlé. Estamos emocionados de tenerte con nosotros."
+    },
+    "verification": {
+      "subject": "Verifica tu correo electrónico",
+      "title": "Verifica tu correo electrónico",
+      "text": "Por favor, verifica tu correo electrónico para completar tu registro.",
+      "button": "Verificar correo electrónico"
+    },
+    "passwordReset": {
+      "subject": "Restablece tu contraseña",
+      "title": "Restablece tu contraseña",
+      "text": "Has solicitado restablecer tu contraseña. Haz clic en el botón de abajo para continuar.",
+      "button": "Restablecer contraseña"
+    }
+  }
+} 

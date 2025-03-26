@@ -1,0 +1,176 @@
+{
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No",
+    "continue": "Continue",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "register": "Register",
+    "coins": "coins",
+    "backToReceipts": "Back to My Purchases"
+  },
+  "home": {
+    "title": "Nestlé Experience",
+    "welcome": "Welcome",
+    "scan": "Scan",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "register": "Register",
+    "cart": "Cart"
+  },
+  "login": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "register": {
+    "title": "Create Account",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 8 characters"
+    },
+    "success": "Account created successfully",
+    "error": "Error creating account",
+    "termsAndPrivacy": "By registering, you agree to our Terms and Conditions and Privacy Policy"
+  },
+  "verify": {
+    "title": "Verify Email",
+    "instructions": "We've sent a verification code to your email. Please enter it below.",
+    "code": "Verification Code",
+    "submit": "Verify",
+    "resend": "Resend Code",
+    "success": "Email verified successfully",
+    "error": "Error verifying email",
+    "resendSuccess": "Code resent successfully",
+    "resendError": "Error resending code",
+    "checkEmail": "Check your email",
+    "waitResend": "You can resend the code in",
+    "seconds": "seconds"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "name": "Name",
+    "email": "Email",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "logout": "Logout",
+    "coins": "Coins",
+    "updatedSuccess": "Profile updated successfully",
+    "updateError": "Error updating profile"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "total": "Total",
+    "coins": "coins",
+    "backToScan": "Scan Products",
+    "processing": "Processing...",
+    "availableCoins": "Available Coins",
+    "addToCart": "Add to Cart",
+    "insufficientCoins": "You don't have enough coins",
+    "checkoutSuccess": "Purchase completed successfully",
+    "checkoutError": "Error processing purchase",
+    "removeSuccess": "Product removed from cart",
+    "removeError": "Error removing product"
+  },
+  "receipt": {
+    "title": "Purchase Details",
+    "order": "Order",
+    "date": "Date",
+    "time": "Time",
+    "customerInfo": "Customer Information",
+    "items": "Products",
+    "item": "product",
+    "total": "Total",
+    "print": "Print",
+    "receiptTitle": "Purchase Receipt",
+    "completed": "Completed",
+    "notFound": "Receipt not found",
+    "notFoundSub": "The receipt you are looking for does not exist or you don't have access to it",
+    "signInRequired": "Sign in to view your purchase details",
+    "printSuccess": "Success",
+    "printed": "Receipt printed successfully",
+    "error": "Error",
+    "loadError": "Could not load receipt",
+    "thankYou": "Thank you for your purchase!",
+    "visitAgain": "We look forward to seeing you again at Nestlé Experience"
+  },
+  "receipts": {
+    "title": "My Purchases",
+    "empty": "You have no recent purchases",
+    "emptySub": "Your purchases will appear here once you make one",
+    "startShopping": "Start shopping",
+    "order": "Order",
+    "item": "product",
+    "items": "products",
+    "signInRequired": "Sign in to view your purchase history",
+    "error": "Error",
+    "loadError": "Could not load receipts"
+  },
+  "scan": {
+    "title": "Scan QR Code",
+    "instructions": "Point your camera at the product's QR code",
+    "permissionDenied": "Camera permission denied",
+    "enableCamera": "Enable camera",
+    "scanAgain": "Scan Again",
+    "productAdded": "Product added to cart",
+    "productError": "Error adding product",
+    "invalidQR": "Invalid QR code"
+  },
+  "admin": {
+    "title": "Administration",
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "products": "Products",
+    "orders": "Orders",
+    "settings": "Settings"
+  },
+  "error": {
+    "notFound": "Page not found",
+    "notFoundMessage": "The page you are looking for does not exist",
+    "backHome": "Back to Home",
+    "serverError": "Server Error",
+    "serverErrorMessage": "An error has occurred on the server"
+  },
+  "email": {
+    "welcome": {
+      "subject": "Welcome to Nestlé Experience",
+      "title": "Welcome to Nestlé Experience",
+      "text": "Thank you for registering with Nestlé Experience. We're excited to have you with us."
+    },
+    "verification": {
+      "subject": "Verify your email",
+      "title": "Verify your email",
+      "text": "Please verify your email to complete your registration.",
+      "button": "Verify Email"
+    },
+    "passwordReset": {
+      "subject": "Reset your password",
+      "title": "Reset your password",
+      "text": "You have requested to reset your password. Click the button below to continue.",
+      "button": "Reset Password"
+    }
+  }
+} 
